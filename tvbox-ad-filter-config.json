@@ -405,29 +405,5 @@
       "quickSearch": 1,
       "filterable": 1
     }
-  ],
-  "parses": [
-    {
-      "name": "代理解析",
-      "type": 1,
-      "url": "http://192.168.31.55:9999/proxy?url={url}",
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    }
-  ],
-  "rules": [
-    {
-      "name": "廣告攔截",
-      "hosts": [
-        "*",
-        "*.ad.*",
-        "*.ads.*"
-      ],
-      "regex": [
-        "ad",
-        "cctv_ad"
-      ]
-    }
   ]
 }
