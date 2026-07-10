@@ -4,7 +4,7 @@
       "key": "feifan",
       "name": "非凡視頻",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/feifan/provide/vod/",
+      "api": "http://192.168.31.55:7777/feifan/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "zuida",
       "name": "最大資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/zuida/provide/vod/",
+      "api": "http://192.168.31.55:7777/zuida/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,7 @@
       "key": "baiduyun",
       "name": "百度雲",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/baiduyun/provide/vod/",
+      "api": "http://192.168.31.55:7777/baiduyun/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
       "key": "baofeng",
       "name": "暴風雲",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/baofeng/provide/vod/",
+      "api": "http://192.168.31.55:7777/baofeng/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -40,7 +40,7 @@
       "key": "jisu",
       "name": "急速資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/jisu/provide/vod/",
+      "api": "http://192.168.31.55:7777/jisu/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -49,7 +49,7 @@
       "key": "tianya",
       "name": "天鴿影視",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/tianya/provide/vod/",
+      "api": "http://192.168.31.55:7777/tianya/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,7 +58,7 @@
       "key": "wujin",
       "name": "無盡資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/wujin/provide/vod/",
+      "api": "http://192.168.31.55:7777/wujin/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -67,7 +67,7 @@
       "key": "modu",
       "name": "魔都資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/modu/provide/vod/",
+      "api": "http://192.168.31.55:7777/modu/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -76,7 +76,7 @@
       "key": "sanliuling",
       "name": "三六零雲",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/sanliuling/provide/vod/",
+      "api": "http://192.168.31.55:7777/sanliuling/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -85,7 +85,7 @@
       "key": "dytt",
       "name": "電影天堂",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/dytt/provide/vod/",
+      "api": "http://192.168.31.55:7777/dytt/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -94,7 +94,7 @@
       "key": "ruyi",
       "name": "如意",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/ruyi/provide/vod/",
+      "api": "http://192.168.31.55:7777/ruyi/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -103,7 +103,7 @@
       "key": "hongniu",
       "name": "紅牛資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/hongniu/provide/vod/",
+      "api": "http://192.168.31.55:7777/hongniu/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -112,7 +112,7 @@
       "key": "guangsu",
       "name": "光速資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/guangsu/provide/vod/",
+      "api": "http://192.168.31.55:7777/guangsu/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -121,7 +121,7 @@
       "key": "ikun",
       "name": "ikun 資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/ikun/provide/vod/",
+      "api": "http://192.168.31.55:7777/ikun/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -130,7 +130,7 @@
       "key": "huya",
       "name": "虎牙視頻",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/huya/provide/vod/",
+      "api": "http://192.168.31.55:7777/huya/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -139,7 +139,7 @@
       "key": "xinlang",
       "name": "新浪資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/xinlang/provide/vod/",
+      "api": "http://192.168.31.55:7777/xinlang/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -148,7 +148,7 @@
       "key": "lezi",
       "name": "樂子資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/lezi/provide/vod/",
+      "api": "http://192.168.31.55:7777/lezi/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -157,7 +157,7 @@
       "key": "haihua",
       "name": "海海海",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/haihua/provide/vod/",
+      "api": "http://192.168.31.55:7777/haihua/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -166,7 +166,7 @@
       "key": "jiangyu",
       "name": "將玉資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/jiangyu/provide/vod/",
+      "api": "http://192.168.31.55:7777/jiangyu/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -175,7 +175,7 @@
       "key": "aidan",
       "name": "愛蛋",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/aidan/provide/vod/",
+      "api": "http://192.168.31.55:7777/aidan/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -184,7 +184,7 @@
       "key": "moduzy",
       "name": "魔都資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/moduzy/provide/vod/",
+      "api": "http://192.168.31.55:7777/moduzy/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -193,7 +193,7 @@
       "key": "feifanapi",
       "name": "非凡 API",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/feifanapi/provide/vod/",
+      "api": "http://192.168.31.55:7777/feifanapi/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -202,7 +202,7 @@
       "key": "feifancj",
       "name": "非凡采集",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/feifancj/provide/vod/",
+      "api": "http://192.168.31.55:7777/feifancj/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -211,7 +211,7 @@
       "key": "feifancj2",
       "name": "非凡采集2",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/feifancj2/provide/vod/",
+      "api": "http://192.168.31.55:7777/feifancj2/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -220,7 +220,7 @@
       "key": "feifan1",
       "name": "非凡1",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/feifan1/provide/vod/",
+      "api": "http://192.168.31.55:7777/feifan1/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -229,7 +229,7 @@
       "key": "wujin2",
       "name": "無盡2",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/wujin2/provide/vod/",
+      "api": "http://192.168.31.55:7777/wujin2/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -238,7 +238,7 @@
       "key": "tianyazy",
       "name": "天鴿資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/tianyazy/provide/vod/",
+      "api": "http://192.168.31.55:7777/tianyazy/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -247,7 +247,7 @@
       "key": "xinlang2",
       "name": "新浪資源2",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/xinlang2/provide/vod/",
+      "api": "http://192.168.31.55:7777/xinlang2/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -256,7 +256,7 @@
       "key": "yilingba2",
       "name": "一零八零",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/yilingba2/provide/vod/",
+      "api": "http://192.168.31.55:7777/yilingba2/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -265,7 +265,7 @@
       "key": "lezi2",
       "name": "樂子2",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/lezi2/provide/vod/",
+      "api": "http://192.168.31.55:7777/lezi2/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -274,7 +274,7 @@
       "key": "uku88",
       "name": "uku88",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/uku88/provide/vod/",
+      "api": "http://192.168.31.55:7777/uku88/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -283,7 +283,7 @@
       "key": "wujincc",
       "name": "無盡cc",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/wujincc/provide/vod/",
+      "api": "http://192.168.31.55:7777/wujincc/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -292,7 +292,7 @@
       "key": "yaya",
       "name": "丫丫資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/yaya/provide/vod/",
+      "api": "http://192.168.31.55:7777/yaya/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -301,7 +301,7 @@
       "key": "wujinnet",
       "name": "無盡net",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/wujinnet/provide/vod/",
+      "api": "http://192.168.31.55:7777/wujinnet/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -310,7 +310,7 @@
       "key": "zuidame",
       "name": "最大美劇",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/zuidame/provide/vod/",
+      "api": "http://192.168.31.55:7777/zuidame/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -319,7 +319,7 @@
       "key": "niuniu",
       "name": "牛牛資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/niuniu/provide/vod/",
+      "api": "http://192.168.31.55:7777/niuniu/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -328,7 +328,7 @@
       "key": "suoni",
       "name": "索尼資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/suoni/provide/vod/",
+      "api": "http://192.168.31.55:7777/suoni/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -337,7 +337,7 @@
       "key": "maotai",
       "name": "茅台資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/maotai/provide/vod/",
+      "api": "http://192.168.31.55:7777/maotai/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -346,7 +346,7 @@
       "key": "dbzy",
       "name": "獨播資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/dbzy/provide/vod/",
+      "api": "http://192.168.31.55:7777/dbzy/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -355,7 +355,7 @@
       "key": "subo",
       "name": "速播資源",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/subo/provide/vod/",
+      "api": "http://192.168.31.55:7777/subo/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -364,7 +364,7 @@
       "key": "shandian",
       "name": "閃電雲",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/shandian/provide/vod/",
+      "api": "http://192.168.31.55:7777/shandian/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -373,7 +373,7 @@
       "key": "piaoling",
       "name": "飄零影視",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/piaoling/provide/vod/",
+      "api": "http://192.168.31.55:7777/piaoling/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -382,7 +382,7 @@
       "key": "modudongman",
       "name": "魔都動漫",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/modudongman/provide/vod/",
+      "api": "http://192.168.31.55:7777/modudongman/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -391,7 +391,7 @@
       "key": "hongniu3",
       "name": "紅牛3",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/hongniu3/provide/vod/",
+      "api": "http://192.168.31.55:7777/hongniu3/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -400,7 +400,7 @@
       "key": "suonisd",
       "name": "索尼高速",
       "type": 1,
-      "api": "http://192.168.31.55:7777/api/suonisd/provide/vod/",
+      "api": "http://192.168.31.55:7777/suonisd/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
