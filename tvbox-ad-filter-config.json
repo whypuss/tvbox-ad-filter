@@ -1,0 +1,193 @@
+{
+  "sites": [
+    {
+      "key": "zuida",
+      "name": "最大资源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "索尼影视",
+      "name": "索尼影视",
+      "type": 1,
+      "api": "https://json.douyucdn.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "暴風資源",
+      "name": "暴風資源",
+      "type": 1,
+      "api": "https://bfzy-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "非凡資源",
+      "name": "非凡資源",
+      "type": 1,
+      "api": "https://www.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "光速資源",
+      "name": "光速資源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "櫻花動漫",
+      "name": "櫻花動漫",
+      "type": 1,
+      "api": "https://m3u8.api.11256.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "動漫巴士",
+      "name": "動漫巴士",
+      "type": 1,
+      "api": "https://dm84.in/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "淘片網",
+      "name": "淘片網",
+      "type": 1,
+      "api": "https://taopianapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "9E影視",
+      "name": "9E影視",
+      "type": 1,
+      "api": "https://app.eotv2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "1080看劇",
+      "name": "1080看劇",
+      "type": 1,
+      "api": "https://1080kanju.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "極速資源",
+      "name": "極速資源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "量子資源",
+      "name": "量子資源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "紅牛資源",
+      "name": "紅牛資源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天翼資源",
+      "name": "天翼資源",
+      "type": 1,
+      "api": "https://www.911zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影探資源",
+      "name": "影探資源",
+      "type": 1,
+      "api": "https://ytzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "酷雲資源",
+      "name": "酷雲資源",
+      "type": 1,
+      "api": "https://kuaixzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360影視",
+      "name": "360影視",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金鹰資源",
+      "name": "金鹰資源",
+      "type": 1,
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快雲資源",
+      "name": "快雲資源",
+      "type": 1,
+      "api": "https://kuaiyunzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "思古雲資源",
+      "name": "思古雲資源",
+      "type": 1,
+      "api": "https://siguyun.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "萌兔動漫",
+      "name": "萌兔動漫",
+      "type": 1,
+      "api": "https://www.mogutv.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
