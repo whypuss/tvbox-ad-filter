@@ -1,0 +1,184 @@
+{
+  "sites": [
+    {
+      "key": "feifan",
+      "name": "非凡視頻",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/feifan/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuida",
+      "name": "最大資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/zuida/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baiduyun",
+      "name": "百度雲",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/baiduyun/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baofeng",
+      "name": "暴風雲",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/baofeng/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jisu",
+      "name": "急速資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/jisu/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tianya",
+      "name": "天鴿影視",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/tianya/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujin",
+      "name": "無盡資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/wujin/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "modu",
+      "name": "魔都資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/modu/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sanliuling",
+      "name": "三六零雲",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/sanliuling/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dytt",
+      "name": "電影天堂",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/dytt/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ruyi",
+      "name": "如意",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/ruyi/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniu",
+      "name": "紅牛資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/hongniu/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsu",
+      "name": "光速資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/guangsu/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ikun",
+      "name": "ikun 資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/ikun/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huya",
+      "name": "虎牙視頻",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/huya/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xinlang",
+      "name": "新浪資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/xinlang/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lezi",
+      "name": "樂子資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/lezi/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haihua",
+      "name": "海海海",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/haihua/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jiangyu",
+      "name": "將玉資源",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/jiangyu/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "aidan",
+      "name": "愛蛋",
+      "type": 1,
+      "api": "http://192.168.31.55:7777/aidan/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
